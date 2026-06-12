@@ -1,0 +1,6 @@
+{
+  "name": "Beauty Boutique Vif Farmasi Arvea",
+  "description": "A premium e-commerce platform for top beauty brands (Vif, Farmasi, Arvea) featuring responsive catalogs, instant AI beauty consultant support, custom order tracking, guest checkout, and an admin inventory panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
